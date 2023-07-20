@@ -4,9 +4,12 @@ A simple dropdown component using React.
 Hosted Link:-  
 
 Create a simple dropdown component according to the image below (on the next page)
-On hovering of the button, show the drop down items.
-The dropdown component should receive the items array to display the items in the list.
-On click of an option in dropdown list, close the dropdown.
+      
+      -> On hovering of the button, show the drop down items.
+      
+      -> The dropdown component should receive the items array to display the items in the list.
+
+      -> On click of an option in dropdown list, close the dropdown.
 
 
 
